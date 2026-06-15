@@ -1,3 +1,5 @@
+## 🚀 Live Demo
+🔗 Demo Link:https://dreamhomeinterior.bytexl.live/
 # 🏠 Home Interior Design Portfolio
 
 A modern, responsive Home Interior Design Portfolio website built using HTML5 and CSS3. This project showcases elegant interior designs, room layouts, and apartment inspirations with a clean and user-friendly interface.
@@ -28,8 +30,6 @@ A modern, responsive Home Interior Design Portfolio website built using HTML5 an
 ![alt text](screenshot.png)
 
 ## 🚀 Live Demo
-
-🔗 Demo Link: https://your-demo-link.netlify.app
 
 ## 📂 Project Structure
 
